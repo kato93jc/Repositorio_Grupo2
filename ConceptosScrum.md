@@ -4,7 +4,14 @@ Repositorio para Proyecto Integrador - Aula 9 - Grupo 2
 # Conceptos Scrum:
 
 ## Ceremonias en Scrum:
-Son 4: 
+Se realizan 4 ceremonias:
+- Sprint Planning Meeting
+- Daily Scrum Meeting
+- Sprint Review Meeting
+- Sprint Retrospective Meeting
+
+Y adicionalmente, se ha incorporado una última:
+- Sprint Refinement Meeting
 
 ## Artefactos: 
 
