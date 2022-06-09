@@ -7,3 +7,7 @@ Son 4:
 # Artefactos: 
 
 # Roles:
+Está conformado por 3 roles principales: 
+-Product Owner 
+-Scrum Master  
+-Development Team 
