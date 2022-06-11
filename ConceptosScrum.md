@@ -6,10 +6,10 @@ Repositorio para Proyecto Integrador - Aula 9 - Grupo 2
 ## Ceremonias en Scrum:
 
 Se realizan 4 ceremonias:
-- Sprint Planning Meeting
-- Daily Scrum Meeting
-- Sprint Review Meeting
-- Sprint Retrospective Meeting
+- Sprint Planning Meeting:
+- Daily Scrum Meeting:
+- Sprint Review Meeting:
+- Sprint Retrospective Meeting:
 
 Y adicionalmente, se ha incorporado una última:
 - Sprint Refinement Meeting
