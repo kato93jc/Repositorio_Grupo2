@@ -14,10 +14,13 @@ Se realizan 4 ceremonias:
 Y adicionalmente, se ha incorporado una última:
 - Sprint Refinement Meeting
 
-## Los Artefactos en Scrum:
-- Pila del Producto (Product Backlog) 
-- Pila del Sprint (Sprint Backlog) 
-- Incremento (Increment)
+
+## Los Artefactos en Scrum: 
+
+Son aquellos elementos físicos que se producen como resultado de la aplicación de Scrum.
+- Pila del Producto (Product Backlog): es un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto: requerimientos, casos de uso, tareas y dependencias. Es la principal fuente de información sobre el producto en Scrum.
+- Pila del Sprint (Sprint Backlog): se trata de una lista de elementos en los que trabajar durante la etapa de Sprint. Estos elementos normalmente se componen de tareas técnicas más pequeñas que permiten conseguir un incremento de software terminado.
+- Incremento (Increment): un Incremento es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
 
 ## Roles:
 Está conformado por 3 roles principales: 
