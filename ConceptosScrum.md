@@ -25,6 +25,9 @@ Son aquellos elementos físicos que se producen como resultado de la aplicación
 ## Roles:
 Está conformado por 3 roles principales: 
 - Product Owner: 
-- Scrum Master:  
+- Scrum Master:  Tiene dos funciones importantes.
+1- Se encarga de  gestionar y asegurara que esl proceso Scrum se  lleve a cabo  correctamente, asi como facilitar la ejecución del proceso y sus mecanicas: Siempre aprendiendo a los pilares del  control  empírico de procesos y  haciendo que la metodología sea  una fuente de generación e valor.
+2- Eliminar impedimentos: esta función indica la necesidad de ayudar a eliminar  progresiva y constantemente impedimentos que van surgiendo en la organización y que afectan en su capacidad para entregar valor, asi como la integridad de esta metodologia.
+# El Scrum master debe ser el responsable de velar porque SRUM se lleve adelante, transmitiendo sus beneficion a la organización facilitando su implememtación.
 - Development Team: Trabaja en desarrollar una potencial e incremental versión del producto o servicio al final de cada Sprint.
 
