@@ -24,7 +24,7 @@ Son aquellos elementos físicos que se producen como resultado de la aplicación
 
 ## Roles:
 Está conformado por 3 roles principales: 
-- Product Owner 
-- Scrum Master  
-- Development Team 
+- Product Owner: 
+- Scrum Master:  
+- Development Team: Trabaja en desarrollar una potencial e incremental versión del producto o servicio al final de cada Sprint.
 
